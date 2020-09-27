@@ -1,6 +1,7 @@
 main() {
 
   print("Hello, World!");
-  prin("Dart is a programming lanugage.")
+  print("Dart is a programming lanugage.");
+  print ("Printing another line.");
   
 }
